@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 111.86 152.73">
+    <defs>
+        <style>.cls-32,.cls-33,.cls-34{stroke:#000;stroke-miterlimit:10;}.cls-32{fill:url(#linear-gradient);}.cls-33{fill:none;}</style>
+        <linearGradient id="linear-gradient" x1="0.5" y1="79.09" x2="76.5" y2="79.09" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#c70606" />
+            <stop offset="0.3" stop-color="#d90606" />
+            <stop offset="0.7" stop-color="#ea0707" />
+            <stop offset="1" stop-color="#f00707" />
+        </linearGradient>
+    </defs>
+    <g id="bypass_interlock" data-name="inter lock">
+        <polygon class="cls-32" points="22.76 117.09 0.5 94.83 0.5 63.35 22.76 41.09 54.24 41.09 76.5 63.35 76.5 94.83 54.24 117.09 22.76 117.09" />
+        <polyline class="cls-33" points="40.99 152.72 40.99 131.56 96.91 131.56 96.91 25.43 40.99 25.43 40.99 0" />
+        <polygon class="cls-34" points="96.91 42.44 83.3 56.05 110.64 56.05 96.91 42.44" />
+    </g>
+</svg>

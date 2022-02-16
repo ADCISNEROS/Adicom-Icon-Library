@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 118.24 104.66">
+    <defs>
+        <style>.cls-30,.cls-31{stroke:#000;stroke-miterlimit:10;}.cls-30{fill:url(#linear-gradient);}.cls-31{fill:#2fa124;}</style>
+        <linearGradient id="linear-gradient" x1="9.78" y1="52.33" x2="113.44" y2="52.33" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#c70606" />
+            <stop offset="0.3" stop-color="#d90606" />
+            <stop offset="0.7" stop-color="#ea0707" />
+            <stop offset="1" stop-color="#f00707" />
+        </linearGradient>
+    </defs>
+    <g id="check_interlock" data-name="inter lock">
+        <polygon class="cls-30" points="40.14 104.16 9.78 73.8 9.78 30.86 40.14 0.5 83.08 0.5 113.44 30.86 113.44 73.8 83.08 104.16 40.14 104.16" />
+        <polygon class="cls-31" points="39.95 103.88 0.71 64.63 14.83 50.51 39.95 75.64 103.41 12.18 117.53 26.3 39.95 103.88" />
+    </g>
+</svg>
