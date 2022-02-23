@@ -279,7 +279,7 @@
         <polygon class="cls-29" points="42.61 101.18 0.71 59.28 15.78 44.2 42.61 71.03 110.38 3.26 125.45 18.34 42.61 101.18" />
     </svg>
 
-    <svg viewBox="0 0 118.24 104.66">
+    <svg id="check_interlock" viewBox="0 0 118.24 104.66">
         <defs>
             <style>.cls-30,.cls-31{stroke:#000;stroke-miterlimit:10;}.cls-30{fill:url(#linear-gradient);}.cls-31{fill:#2fa124;}</style>
             <linearGradient id="linear-gradient" x1="9.78" y1="52.33" x2="113.44" y2="52.33" gradientUnits="userSpaceOnUse">
@@ -289,13 +289,13 @@
                 <stop offset="1" stop-color="#f00707" />
             </linearGradient>
         </defs>
-        <g id="check_interlock">
+        <g>
             <polygon class="cls-30" points="40.14 104.16 9.78 73.8 9.78 30.86 40.14 0.5 83.08 0.5 113.44 30.86 113.44 73.8 83.08 104.16 40.14 104.16" />
             <polygon class="cls-31" points="39.95 103.88 0.71 64.63 14.83 50.51 39.95 75.64 103.41 12.18 117.53 26.3 39.95 103.88" />
         </g>
     </svg>
 
-    <svg viewBox="0 0 111.86 152.73">
+    <svg id="bypass_interlock" viewBox="0 0 111.86 152.73">
         <defs>
             <style>.cls-32,.cls-33,.cls-34{stroke:#000;stroke-miterlimit:10;}.cls-32{fill:url(#linear-gradient);}.cls-33{fill:none;}</style>
             <linearGradient id="linear-gradient" x1="0.5" y1="79.09" x2="76.5" y2="79.09" gradientUnits="userSpaceOnUse">
@@ -305,7 +305,7 @@
                 <stop offset="1" stop-color="#f00707" />
             </linearGradient>
         </defs>
-        <g id="bypass_interlock">
+        <g>
             <polygon class="cls-32" points="22.76 117.09 0.5 94.83 0.5 63.35 22.76 41.09 54.24 41.09 76.5 63.35 76.5 94.83 54.24 117.09 22.76 117.09" />
             <polyline class="cls-33" points="40.99 152.72 40.99 131.56 96.91 131.56 96.91 25.43 40.99 25.43 40.99 0" />
             <polygon class="cls-34" points="96.91 42.44 83.3 56.05 110.64 56.05 96.91 42.44" />
